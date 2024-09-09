@@ -59,7 +59,7 @@ __all__ = [
 ]
 
 SUPPORT_DET_MODEL = ['DB']
-VERSION = '2.7.0.3'
+VERSION = '2.8.1'
 SUPPORT_REC_MODEL = ['CRNN', 'SVTR_LCNet']
 BASE_DIR = os.environ.get('PADDLE_OCR_BASE_DIR', os.path.expanduser("~/.paddleocr/"))
 

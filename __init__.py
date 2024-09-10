@@ -21,6 +21,7 @@ from .paddleocr import (
     sorted_layout_boxes,
     convert_info_docx,
     to_excel,
+    parse_lang
 )
 import importlib.metadata as importlib_metadata
 
@@ -39,4 +40,5 @@ __all__ = [
     "sorted_layout_boxes",
     "convert_info_docx",
     "to_excel",
+    "parse_lang",
 ]

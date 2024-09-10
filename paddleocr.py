@@ -76,6 +76,7 @@ __all__ = [
     "draw_structure_result",
     "save_structure_res",
     "download_with_progressbar",
+    "parse_lang",
     "to_excel",
     "sorted_layout_boxes",
     "convert_info_docx",
